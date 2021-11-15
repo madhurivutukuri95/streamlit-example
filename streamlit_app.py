@@ -4,7 +4,7 @@ Created on Thu Sep 23 21:05:34 2021
 
 @author: vutukurimadhurireddy
 """
-
+pip install docx2python
 # import docx2txt
 # import docx
 # # read in word
